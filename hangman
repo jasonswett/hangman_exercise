@@ -1,7 +1,8 @@
 #!/usr/bin/ruby
-# The above can be replaced with whatever language you choose
 
-# Modify this file to create your hangman program.
-#
-# The input filename will come as an argument (see completeness_test).
+# This program can be run like this:
+# ./hangman input.txt
+
 input_filename = ARGV[0]
+
+# Put your code here
