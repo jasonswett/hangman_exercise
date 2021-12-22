@@ -6,13 +6,12 @@ a____ life left: 3 incorrect guesses: bqz
 a___e life left: 3 incorrect guesses: bqz
 app_e life left: 3 incorrect guesses: bqz
 apple YOU WIN!
-________ life left: 6
-________ life left: 5 incorrect guesses: a
-________ life left: 4 incorrect guesses: ae
-__i___i_ life left: 4 incorrect guesses: ae
-__i_o_i_ life left: 4 incorrect guesses: ae
-_ui_o_i_ life left: 4 incorrect guesses: ae
-_ui_o_i_ life left: 3 incorrect guesses: ael
-_ui_o_i_ life left: 2 incorrect guesses: aelg
-_ui_o_i_ life left: 1 incorrect guesses: aelgp
-_ui_o_i_ YOU LOSE!
+______ life left: 6
+______ life left: 5 incorrect guesses: x
+______ life left: 4 incorrect guesses: xv
+______ life left: 3 incorrect guesses: xvq
+______ life left: 2 incorrect guesses: xvqb
+o_____ life left: 2 incorrect guesses: xvqb
+o_____ life left: 1 incorrect guesses: xvqbl
+o___g_ life left: 1 incorrect guesses: xvqbl
+o___g_ YOU LOSE!
